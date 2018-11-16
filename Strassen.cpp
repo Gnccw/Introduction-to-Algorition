@@ -11,3 +11,5 @@ int main()
 	}
 	for(auto c:v) cout<<v[i];
 }
+
+++
